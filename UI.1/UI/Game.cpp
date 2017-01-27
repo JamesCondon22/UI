@@ -2,7 +2,7 @@
 #include <iostream>
 
 /// <summary>
-/// James Condon 
+/// James Condon && Aaron Curry
 /// C00207200
 /// </summary>
 
